@@ -1,0 +1,5 @@
+body { background-image: url(moon.png.png); }
+h1	{ border-style: dashed; color: lightgrey ;text-align: center; text-shadow: 2px 2px black; font-family: "Lucida console", serifs; }
+h2	{ text-align: center; color: white; font-family: "Lucida console"; font-size: 14px; text-shadow: 2px 2px black }
+p { text-align: justify; color: white; font-family: "Times new roman", serifs; font-size: 14px }
+img { border-radius: 50%; }
